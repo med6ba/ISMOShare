@@ -1,5 +1,5 @@
 # 📚 ISMOShare
-<img src="assets/images/ISMO%20SHARE.png" alt="Aperçu ISMOShare" width="200" style="border-radius: 500px;" />
+<img src="assets/images/ISMO%20SHARE.png" alt="Logo ISMOShare" width="200" />
 
 ISMOShare est une plateforme collaborative destinée aux étudiants et enseignants de l’ISMO (Institut Spécialisé de Technologie Appliquée). Elle permet de partager des ressources pédagogiques, publier des annonces, et gérer les profils utilisateurs.
 
@@ -157,7 +157,7 @@ Merci de suivre les étapes suivantes :
 
 - **Mme Joairia Lafhal** - <a href="#">LinkedIn</a>
 
-**Institut spécialisé dans les métiers de l'offshoring Tétouan (ISMO) – Tétouan, 2025**
+**Institut spécialisé dans les métiers de l'offshoring (ISMO) – Tétouan, 2025**
 
 ---
 
