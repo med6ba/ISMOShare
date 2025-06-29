@@ -110,7 +110,7 @@ Cet outil vise à encourager la collaboration, l'entraide et le partage de conna
 | Semaine 2          | Intégration des maquettes (HTML, CSS, JavaScript)                                   |
 | Semaines 3 - 4     | Développement Backend : authentification, gestion des rôles, modules stagiaires & formateurs |
 | Semaines 5 - 6     | Développement des modules d’administration                                           |
-| Semaine 7          | Mise en place du chat, des notifications et de la recherche filtrée                 |
+| Semaine 7          | Mise en place des notifications et de la recherche filtrée                 |
 | Semaine 8          | Tests techniques & validation avec utilisateurs pilotes                             |
 | Semaine 9          | Présentation finale & rédaction du rapport    
 
