@@ -35,3 +35,50 @@ ISMOShare est une plateforme collaborative destinée aux étudiants et enseignan
 
 ```bash
 git clone https://github.com/votre-nom-utilisateur/ismoshare.git
+```
+
+### 2. Importer la base de données
+
+Ouvrir phpMyAdmin ou un autre client MySQL.
+Importer le fichier suivant :
+
+```bash
+database/ismoshare.sql
+```
+
+### 3. Configurer le serveur local
+
+Copier le dossier du projet dans votre répertoire serveur (ex: htdocs/ si vous utilisez XAMPP).
+
+Démarrer Apache et MySQL.
+
+### 4. Accéder au site
+
+```bash
+http://localhost/ISMOShare/index.php
+```
+
+### 5. Structure du projet
+
+```bash
+ISMOShare/
+├── index.php
+├── database/
+│   └── ismoshare.sql
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── images/
+│   │   └── logo.png, hero.png, ...
+│   ├── uploads/
+│   │   └── profile/, resources/
+│   └── documents/
+│       └── cahier des charges.pdf
+├── pages/
+│   ├── annonces.php
+│   ├── apropos.php
+│   ├── connexion.php
+│   ├── attente-validation.php
+│   └── ...
+```
+
