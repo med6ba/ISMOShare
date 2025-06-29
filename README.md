@@ -1,8 +1,8 @@
 # 📚 ISMOShare
 
-ISMOShare est une plateforme collaborative destinée aux étudiants et enseignants de l’ISMO (Institut Spécialisé de Technologie Appliquée). Elle permet de partager des ressources pédagogiques, publier des annonces, et gérer les profils utilisateurs.
-
 <img src="assets/images/logo.png" alt="Logo ISMOShare" width="200" />
+
+ISMOShare est une plateforme collaborative destinée aux étudiants et enseignants de l’ISMO (Institut Spécialisé de Technologie Appliquée). Elle permet de partager des ressources pédagogiques, publier des annonces, et gérer les profils utilisateurs.
 
 ---
 
