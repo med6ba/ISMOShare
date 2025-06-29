@@ -102,7 +102,7 @@ Nous sommes une équipe de 5 stagiaires poursuivant notre formation en Développ
 Notre mission est de créer une plateforme interactive pour les stagiaires de l'ISMO Tétouan, facilitant l'accès aux ressources pédagogiques tout en favorisant les échanges entre stagiaires.  
 Cet outil vise à encourager la collaboration, l'entraide et le partage de connaissances au sein de la communauté des stagiaires.
 
-##  Planification du Projet
+## 🗓️ Planification du Projet
 
 | **Étape**               | **Tâches**                                         | **Durée**   | **Période**     |
 |-------------------------|---------------------------------------------------|-------------|-----------------|
@@ -114,8 +114,8 @@ Cet outil vise à encourager la collaboration, l'entraide et le partage de conna
 |                         | Fonctionnalités de base partie stagiaire et formateur | 1 semaine | Semaine 4       |
 |                         | Fonctionnalités de base partie administration      | 2 semaines  | Semaines 5 et 6 |
 | **6. Fonctionnalités avancées** | Chat, notifications, recherches filtrées      | 1 semaine   | Semaine 7       |
-| **7. Tests & validation** | Tests unitaires, fonctionnels                      | 5 jours   | Semaine 8       |
-|                         | Retours utilisateurs (phase pilote avec une filière) | 2 jours   | Semaine 8       |
+| **7. Tests & validation** | Tests unitaires, fonctionnels                      | 1 semaine   | Semaine 8       |
+|                         | Retours utilisateurs (phase pilote avec une filière) | 1 semaine   | Semaine 8       |
 | **8. Présentation finale** | Rapport final + diaporama de soutenance            | 1 jour      | Semaine 9       |
 
 ---
@@ -147,17 +147,11 @@ Merci de suivre les étapes suivantes :
 
 ---
 
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
-
----
-
 ## 📬 Contact
 
 ### Réalisé par
 
-- **Mohamed Ben Abdessadak** - <a href="#">LinkedIn</a>
+- **Mohamed Ben Abdessadak** - <a href="https://www.linkedin.com/in/med6ba/">LinkedIn</a> - <a href="https://github.com/med6ba">GitHub</a>
 - **Fatima Ezzahraa Hmodo** - <a href="#">LinkedIn</a>
 - **Nihad Afilal** - <a href="#">LinkedIn</a>
 - **Dina Actaou** - <a href="#">LinkedIn</a>
@@ -168,3 +162,9 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'i
 - **Mme Joairia Lafhal** - <a href="#">LinkedIn</a>
 
 **Institut spécialisé dans les métiers de l'offshoring Tétouan (ISMO) – Tétouan, 2025**
+
+---
+
+## 📄 Licence
+
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
