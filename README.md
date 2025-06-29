@@ -75,6 +75,16 @@ ISMOShare/
 │   └── documents/
 │       └── cahier des charges.pdf
 ├── pages/
+│   ├── includes/
+│   │   ├── config.php
+│   │   └── notification_functions.php
+│   ├── subpages/
+│   │   ├── contact-messages.php
+│   │   ├── liste-users.php
+│   │   ├── valider-inscriptions.php
+│   │   └── valider-ressources.php
+│   ├── uploads/
+│   │   └── profiles/
 │   ├── annonces.php
 │   ├── apropos.php
 │   ├── attente-validation.php
@@ -89,6 +99,5 @@ ISMOShare/
 │   ├── profile.php
 │   ├── ressources.php
 └── └── update_download_count.php
-
 ```
 
