@@ -1,5 +1,5 @@
-# ISMOShare
-<img src="assets/images/ISMO%20SHARE.png" alt="Aperçu ISMOShare" width="200" />
+# 📚 ISMOShare
+<img src="assets/images/ISMO%20SHARE.png" alt="Aperçu ISMOShare" width="200" style="border-radius: 500px;" />
 
 ISMOShare est une plateforme collaborative destinée aux étudiants et enseignants de l’ISMO (Institut Spécialisé de Technologie Appliquée). Elle permet de partager des ressources pédagogiques, publier des annonces, et gérer les profils utilisateurs.
 
@@ -102,7 +102,7 @@ Nous sommes une équipe de 5 stagiaires poursuivant notre formation en Développ
 Notre mission est de créer une plateforme interactive pour les stagiaires de l'ISMO Tétouan, facilitant l'accès aux ressources pédagogiques tout en favorisant les échanges entre stagiaires.  
 Cet outil vise à encourager la collaboration, l'entraide et le partage de connaissances au sein de la communauté des stagiaires.
 
-## Planification du Projet
+##  Planification du Projet
 
 | **Étape**               | **Tâches**                                         | **Durée**   | **Période**     |
 |-------------------------|---------------------------------------------------|-------------|-----------------|
@@ -120,7 +120,7 @@ Cet outil vise à encourager la collaboration, l'entraide et le partage de conna
 
 ---
 
-## Livrables
+## 📂 Livrables
 
 1. Projet PHP compressé  
 2. Rapport en PDF contenant les principaux axes :  
