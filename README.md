@@ -129,14 +129,14 @@ Merci de suivre les étapes suivantes :
 ### Réalisé par:
 
 - **Mohamed Ben Abdessadak** - <a href="https://www.linkedin.com/in/med6ba/">LinkedIn</a> - <a href="https://github.com/med6ba">GitHub</a>
-- **Fatima Ezzahraa Hmodo** - <a href="#">LinkedIn</a>
-- **Nihad Afilal** - <a href="#">LinkedIn</a>
-- **Dina Actaou** - <a href="#">LinkedIn</a>
-- **Sara Hidouri** - <a href="#">LinkedIn</a>
+- **Fatima Ezzahraa Hmodo** - <a href="http://www.linkedin.com/in/fatima-ezzahraa-hmodo-531923276">LinkedIn</a> - <a href="https://github.com/Fatimaezzah2">GitHub</a>
+- **Nihad Afilal** - <a href="#">LinkedIn</a> - <a href="">GitHub</a>
+- **Dina Actaou** - <a href="#">LinkedIn</a> - <a href="">GitHub</a>
+- **Sara Hidouri** - <a href="#">LinkedIn</a> - <a href="">GitHub</a>
 
 ### Sous la supervision de:
 
-- **Mme Joairia Lafhal** - <a href="#">LinkedIn</a>
+- **Mme Joairia Lafhal** - <a href="https://www.linkedin.com/in/joairia-lafhal-231454271/">LinkedIn</a>
 
 **Institut spécialisé dans les métiers de l'offshoring (ISMO) – Tétouan, 2025**
 
