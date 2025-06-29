@@ -131,3 +131,40 @@ Cet outil vise à encourager la collaboration, l'entraide et le partage de conna
    - Les difficultés rencontrées  
    - Les extensions possibles  
 3. Présentation numérique contenant les mêmes axes que le rapport
+
+---
+
+## 🤝 Contribution
+
+Les contributions sont les bienvenues !  
+Merci de suivre les étapes suivantes :
+
+1. Fork le dépôt
+2. Crée une branche (`git checkout -b feature/ma-fonctionnalite`)
+3. Commit tes changements (`git commit -m 'Ajout d'une fonctionnalité'`)
+4. Push vers ta branche (`git push origin feature/ma-fonctionnalite`)
+5. Crée une Pull Request
+
+---
+
+## 📄 Licence
+
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
+
+---
+
+## 📬 Contact
+
+### Réalisé par
+
+- **Mohamed Ben Abdessadak** - <a href="#"></a>
+- **Fatima Ezzahraa Hmodo** - <a href="#"></a>
+- **Nihad Afilal** - <a href="#"></a>
+- **Dina Actaou** - <a href="#"></a>
+- **Sara Hidouri** - <a href="#"></a>
+
+### Sous la supervision de
+
+- **Mme Joairia Lafhal**, formatrice
+
+**Institut Spécialisé de Technologie Appliquée (ISMO) – Tétouan, 2025**
