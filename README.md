@@ -39,8 +39,8 @@ git clone https://github.com/votre-nom-utilisateur/ismoshare.git
 
 ### 2. Importer la base de données
 
-Ouvrir phpMyAdmin ou un autre client MySQL.
-Importer le fichier suivant :
+- Ouvrir phpMyAdmin ou un autre client MySQL.
+- Importer le fichier suivant :
 
 ```bash
 database/ismoshare.sql
@@ -77,8 +77,18 @@ ISMOShare/
 ├── pages/
 │   ├── annonces.php
 │   ├── apropos.php
-│   ├── connexion.php
 │   ├── attente-validation.php
-│   └── ...
+│   ├── connexion.php
+│   ├── contact.php
+│   ├── dashboard.php
+│   ├── error.php
+│   ├── forum.php
+│   ├── inscription.php
+│   ├── logout.php
+│   ├── notifications.php
+│   ├── profile.php
+│   ├── ressources.php
+└── └── update_download_count.php
+
 ```
 
