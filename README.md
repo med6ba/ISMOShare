@@ -157,14 +157,14 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'i
 
 ### Réalisé par
 
-- **Mohamed Ben Abdessadak** - <a href="#"></a>
-- **Fatima Ezzahraa Hmodo** - <a href="#"></a>
-- **Nihad Afilal** - <a href="#"></a>
-- **Dina Actaou** - <a href="#"></a>
-- **Sara Hidouri** - <a href="#"></a>
+- **Mohamed Ben Abdessadak** - <a href="#">LinkedIn</a>
+- **Fatima Ezzahraa Hmodo** - <a href="#">LinkedIn</a>
+- **Nihad Afilal** - <a href="#">LinkedIn</a>
+- **Dina Actaou** - <a href="#">LinkedIn</a>
+- **Sara Hidouri** - <a href="#">LinkedIn</a>
 
 ### Sous la supervision de
 
-- **Mme Joairia Lafhal**, formatrice
+- **Mme Joairia Lafhal** - <a href="#">LinkedIn</a>
 
-**Institut Spécialisé de Technologie Appliquée (ISMO) – Tétouan, 2025**
+**Institut spécialisé dans les métiers de l'offshoring Tétouan (ISMO) – Tétouan, 2025**
