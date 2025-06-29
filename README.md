@@ -34,7 +34,7 @@ ISMOShare est une plateforme collaborative destinée aux étudiants et enseignan
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-nom-utilisateur/ismoshare.git
+git clone https://github.com/med6ba/ismoshare.git
 ```
 
 ### 2. Importer la base de données
