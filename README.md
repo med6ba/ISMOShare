@@ -101,3 +101,34 @@ ISMOShare/
 └── └── update_download_count.php
 ```
 
+## 👥 Travail d’équipe
+
+Nous sommes une équipe de 5 stagiaires poursuivant notre formation en Développement Digital à l'ISMO Tétouan.  
+Notre mission est de créer une plateforme interactive pour les stagiaires de l'ISMO Tétouan, facilitant l'accès aux ressources pédagogiques tout en favorisant les échanges entre stagiaires.  
+Cet outil vise à encourager la collaboration, l'entraide et le partage de connaissances au sein de la communauté des stagiaires.
+
+## Planification du Projet
+
+| **Étape**               | **Tâches**                                         | **Durée**   | **Période**     |
+|-------------------------|---------------------------------------------------|-------------|-----------------|
+| **1. Conception**        | Modélisation MERISE (MCD et MLD)                   | 3 jours     | Semaine 1       |
+|                         | Maquettage UI/UX (interfaces web)                  | 2 jours     | Semaine 1       |
+| **2. Architecture technique** | Conception base de données (MySQL)             | 3 jours     | Semaine 1       |
+| **4. Développement Frontend Web** | Intégration des maquettes (HTML, CSS, JS)  | 1 semaine   | Semaine 2       |
+| **5. Développement Backend (API)** | Authentification, gestion des rôles         | 1 semaine   | Semaine 3       |
+|                         | Fonctionnalités de base partie stagiaire et formateur | 1 semaine | Semaine 4       |
+|                         | Fonctionnalités de base partie administration      | 2 semaines  | Semaines 5 et 6 |
+| **6. Fonctionnalités avancées** | Chat, notifications, recherches filtrées      | 1 semaine   | Semaine 7       |
+| **7. Tests & validation** | Tests unitaires, fonctionnels                      | 1 semaine   | Semaine 8       |
+|                         | Retours utilisateurs (phase pilote avec une filière) |           |                 |
+| **8. Présentation finale** | Rapport final + diaporama de soutenance            | 1 jour      | Semaine 9       |
+
+---
+
+**Livrables :**  
+- Modèles MERISE (MCD, MLD)  
+- Maquettes UI/UX  
+- Base de données MySQL  
+- Frontend et Backend fonctionnels  
+- Tests validés  
+- Rapport et présentation finale
