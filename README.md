@@ -126,7 +126,7 @@ Merci de suivre les étapes suivantes :
 
 ## 📬 Contact
 
-### Réalisé par
+### Réalisé par:
 
 - **Mohamed Ben Abdessadak** - <a href="https://www.linkedin.com/in/med6ba/">LinkedIn</a> - <a href="https://github.com/med6ba">GitHub</a>
 - **Fatima Ezzahraa Hmodo** - <a href="#">LinkedIn</a>
@@ -134,7 +134,7 @@ Merci de suivre les étapes suivantes :
 - **Dina Actaou** - <a href="#">LinkedIn</a>
 - **Sara Hidouri** - <a href="#">LinkedIn</a>
 
-### Sous la supervision de
+### Sous la supervision de:
 
 - **Mme Joairia Lafhal** - <a href="#">LinkedIn</a>
 
