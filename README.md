@@ -120,7 +120,7 @@ Cet outil vise à encourager la collaboration, l'entraide et le partage de conna
 |                         | Fonctionnalités de base partie administration      | 2 semaines  | Semaines 5 et 6 |
 | **6. Fonctionnalités avancées** | Chat, notifications, recherches filtrées      | 1 semaine   | Semaine 7       |
 | **7. Tests & validation** | Tests unitaires, fonctionnels                      | 5 jours   | Semaine 8       |
-|                         | Retours utilisateurs (phase pilote avec une filière) | 2 jours   |                 |
+|                         | Retours utilisateurs (phase pilote avec une filière) | 2 jours   | Semaine 8       |
 | **8. Présentation finale** | Rapport final + diaporama de soutenance            | 1 jour      | Semaine 9       |
 
 ---
