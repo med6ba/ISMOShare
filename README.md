@@ -97,12 +97,6 @@ ISMOShare/
 └── └── update_download_count.php
 ```
 
-## 👥 Travail d’équipe
-
-Nous sommes une équipe de 5 stagiaires poursuivant notre formation en Développement Digital à l'ISMO Tétouan.  
-Notre mission est de créer une plateforme interactive, facilitant l'accès aux ressources pédagogiques tout en favorisant les échanges entre stagiaires.  
-Cet outil vise à encourager la collaboration, l'entraide et le partage de connaissances au sein de la communauté des stagiaires.
-
 ## 🗓️ Planification du Projet
 
 | **Semaine**        | **Tâches réalisées**                                                                 |
@@ -114,20 +108,6 @@ Cet outil vise à encourager la collaboration, l'entraide et le partage de conna
 | Semaine 7          | Mise en place des notifications et de la recherche filtrée                 |
 | Semaine 8          | Tests techniques & validation avec utilisateurs pilotes                             |
 | Semaine 9          | Présentation finale & rédaction du rapport    
-
----
-
-## 📂 Livrables
-
-1. Projet PHP compressé  
-2. Rapport en PDF contenant les principaux axes :  
-   - Description des fonctionnalités du projet  
-   - Planification du projet  
-   - Gestion de l’équipe et distribution des tâches  
-   - La réalisation (capture d’écran des interfaces)  
-   - Les difficultés rencontrées  
-   - Les extensions possibles  
-3. Présentation numérique contenant les mêmes axes que le rapport
 
 ---
 
