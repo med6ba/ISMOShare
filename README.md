@@ -17,7 +17,7 @@ ISMOShare est une plateforme collaborative destinée aux étudiants et enseignan
 
 ## 🖼️ Aperçu
 
-![Aperçu ISMOShare](assets/images/ISMO%20SHARE.png)
+<img src="assets/images/ISMO%20SHARE.png" alt="Aperçu ISMOShare" width="200" />
 
 ---
 
