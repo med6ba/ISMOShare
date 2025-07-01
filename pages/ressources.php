@@ -42,18 +42,24 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['upload_resource'])) {
         $allowed = ['pdf', 'doc', 'docx', 'ppt', 'pptx', 'xls', 'xlsx', 'zip', 'rar'];
         $filename = $_FILES['resource_file']['name'];
         $ext = strtolower(pathinfo($filename, PATHINFO_EXTENSION));
-        
+// Extraire l'extension d'un fichier en minis        
         if (in_array($ext, $allowed)) {
             $new_filename = uniqid() . '.' . $ext;
             $upload_dir = '../assets/uploads/resources/';
+// uniqid():fonction PHP qui génère un identifiant unique basé sur le timestamp actuel pour éviter les conflits
             
             if (!file_exists($upload_dir)) {
                 mkdir($upload_dir, 0777, true);
             }
+  //file_exists: Vérifie si un fichier ou un dossier existe dans le système de fichiers (le disque).
+ // mkdir() est une fonction de PHP qui permet de créer un dossier (répertoire) depuis un script. $upload_dir: le chemin, 
+//0777:permission(lecture/écriture/exécution pour tout le monde), true(permet de créer plusieurs niveaux de dossier)
             
             $upload_path = $upload_dir . $new_filename;
             
             if (move_uploaded_file($_FILES['resource_file']['tmp_name'], $upload_path)) {
+//Déplacer un fichier téléversé par un utilisateur,stocké temporairement($resource_file['tmp_name']) vers un emplacement permanent($upload_path)
+
                 $file_path = 'assets/uploads/resources/' . $new_filename;
             } else {
                 $error = "Erreur lors du téléchargement du fichier.";
@@ -169,7 +175,20 @@ if (isset($_GET['download']) && !empty($_GET['download'])) {
             readfile($file_path);
             exit();
         }
+    /*
+        Ce code force le téléchargement d'un fichier.
+        header('Content-Type') indique que c'est un fichier binaire.
+        Content-Disposition déclenche le téléchargement avec un nom précis.
+        Content-Length précise la taille du fichier.
+        readfile() envoie le contenu.
+        exit() stoppe le script.
+        Sans eux, le fichier peut s'ouvrir dans le navigateur ou être corrompu.
+
+        */
+
+
     }
+    
 }
 
 if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['add_comment'])) {
@@ -260,14 +279,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['toggle_like'])) {
     $result = $stmt->get_result();
     
     if ($result->num_rows > 0) {
+        // Supprimer le like
         $stmt = $conn->prepare("DELETE FROM likes_ressource WHERE id_ressource = ? AND id_utilisateur = ?");
         $stmt->bind_param("ii", $resource_id, $user_id);
         $stmt->execute();
     } else {
+  // Ajouter un like
         $stmt = $conn->prepare("INSERT INTO likes_ressource (id_ressource, id_utilisateur, date_like) VALUES (?, ?, NOW())");
         $stmt->bind_param("ii", $resource_id, $user_id);
         $stmt->execute();
     }
+// Rediriger pour éviter la soumission multiple du formulaire
     
     header("Location: " . $_SERVER['HTTP_REFERER']);
     exit();
@@ -333,6 +355,8 @@ $sql = "SELECT r.*,
         LEFT JOIN filiere f ON r.id_filiere = f.id_filiere
         WHERE r.statut = 'approuve'";
 
+//COALESCE s'il n'y a pas de valeur dans telechargements, on utilise 0 à la place.
+
 if (!$can_manage_all) {
     $where_conditions[] = "r.statut = 'approuve'";
 }
@@ -370,7 +394,7 @@ try {
     error_log("Erreur SQL dans ressources.php: " . $e->getMessage());
     $resources = [];
 }
-
+// Debug pour voir les données
 error_log("Nombre de ressources trouvées : " . count($resources));
 foreach ($resources as $resource) {
     error_log("Ressource ID: " . $resource['id_ressource'] . 

@@ -72,7 +72,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 <html lang="fr" dir="ltr">
 <head>
     <meta charset="UTF-8">
-    <title>Connexion | ISMOShare</title>
+    <title>ISMOShare | Connexion</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="./../assets/css/style.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet">

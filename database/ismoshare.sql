@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1
--- Généré le : mer. 04 juin 2025 à 09:49
+-- Généré le : lun. 30 juin 2025 à 15:40
 -- Version du serveur : 10.4.32-MariaDB
 -- Version de PHP : 8.2.12
 
@@ -298,11 +298,9 @@ CREATE TABLE `utilisateur` (
 --
 
 INSERT INTO `utilisateur` (`id_utilisateur`, `nom`, `prenom`, `email`, `mot_de_passe`, `photo_profil`, `role`, `id_filiere`, `cef_matricule`, `numero_whatsapp`, `bio`, `statut`, `annee_formation`) VALUES
-(78, 'formateur', 'super', 'formateur@ofppt-edu.ma', '$2y$10$2sl7TeZuITZxmgChwG2iJeJhWdiundot1sSD4wzwFGKs7ds3NszUa', NULL, 'formateur', NULL, '1234', NULL, NULL, 'approuvé', NULL),
-(79, 'stagiaire', 'super', 'stagiaire@ofppt-edu.ma', '$2y$10$vea.KkXbUsbQqMnP7T6RW.ulEiH/PzQFYHVUT5RG9yz9mJ6wtlYI6', NULL, 'stagiaire', NULL, '12345678', NULL, NULL, 'approuvé', NULL),
-(80, 'admin', 'super', 'admin@ofppt-edu.ma', '$2y$10$ELq0HoNv3EsUVgdFS6wTr.8AMASzTycZPj2QE/78HmQZFdcpXc8LK', NULL, 'admin', NULL, '123456', '670765333', '', 'approuvé', ''),
-(81, 'Ben abdessadak', 'Mohamed', 'medba@ofppt-edu.ma', '$2y$10$2SLBt3bmT7trvaFA/EOATuiquJkZfKhSVd4Z4qF8cvv8bgwDIhZwG', '683d838d7847b.png', 'admin', 1, '2006031100155', '670765333', 'junior web developer', 'approuvé', '1ère année'),
-(83, 'ajouter', 'test', 'test@ofppt-edu.ma', '$2y$10$7Yu2aaeMeCGWIn/0CAZO4OQ3hZYHkzPizXyLh2BLkHMjlWIm9BI9K', NULL, 'admin', NULL, '87234', '', '', 'approuvé', '');
+(93, 'admin', 'super', 'admin@ofppt-edu.ma', '$2y$10$bBxuMvYRmoffvih1mF/4xOVkU.HX1007CjrDH6YNu.nKidkYvSSEG', '68603a6513e91.png', 'admin', 1, '123456', '000000000', 'test', 'approuvé', '1ère année'),
+(94, 'stagiaire', 'super', 'stagiaire@ofppt-edu.ma', '$2y$10$iTuMZy6m6x8YDCL/5b7yVeIz3iQvNitI7DpfMf9pyDTocTireDVGW', NULL, 'stagiaire', NULL, '12', NULL, NULL, 'approuvé', NULL),
+(95, 'formateur', 'super', 'formateur@ofppt-edu.ma', '$2y$10$57oY6492xf4Cl22sewO.mOvgG.NG4NVHfAyZLPSz72pMlNauoiM5i', NULL, 'formateur', NULL, '123', NULL, NULL, 'approuvé', NULL);
 
 -- --------------------------------------------------------
 
@@ -461,7 +459,7 @@ ALTER TABLE `validation`
 -- AUTO_INCREMENT pour la table `annonce`
 --
 ALTER TABLE `annonce`
-  MODIFY `id_annonce` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+  MODIFY `id_annonce` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
 
 --
 -- AUTO_INCREMENT pour la table `commentaire`
@@ -473,19 +471,19 @@ ALTER TABLE `commentaire`
 -- AUTO_INCREMENT pour la table `commentaire_forum`
 --
 ALTER TABLE `commentaire_forum`
-  MODIFY `id_commentaire` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=23;
+  MODIFY `id_commentaire` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=26;
 
 --
 -- AUTO_INCREMENT pour la table `commentaire_ressource`
 --
 ALTER TABLE `commentaire_ressource`
-  MODIFY `id_commentaire` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=38;
+  MODIFY `id_commentaire` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=42;
 
 --
 -- AUTO_INCREMENT pour la table `contact_messages`
 --
 ALTER TABLE `contact_messages`
-  MODIFY `id_message` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=51;
+  MODIFY `id_message` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=54;
 
 --
 -- AUTO_INCREMENT pour la table `filiere`
@@ -503,19 +501,19 @@ ALTER TABLE `forum`
 -- AUTO_INCREMENT pour la table `likes_commentaire_forum`
 --
 ALTER TABLE `likes_commentaire_forum`
-  MODIFY `id_like` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `id_like` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
 
 --
 -- AUTO_INCREMENT pour la table `likes_forum`
 --
 ALTER TABLE `likes_forum`
-  MODIFY `id_like` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=20;
+  MODIFY `id_like` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=35;
 
 --
 -- AUTO_INCREMENT pour la table `likes_ressource`
 --
 ALTER TABLE `likes_ressource`
-  MODIFY `id_like` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=22;
+  MODIFY `id_like` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=27;
 
 --
 -- AUTO_INCREMENT pour la table `module`
@@ -527,25 +525,25 @@ ALTER TABLE `module`
 -- AUTO_INCREMENT pour la table `notification`
 --
 ALTER TABLE `notification`
-  MODIFY `id_notification` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=48;
+  MODIFY `id_notification` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=68;
 
 --
 -- AUTO_INCREMENT pour la table `reponseforum`
 --
 ALTER TABLE `reponseforum`
-  MODIFY `id_sujet` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=16;
+  MODIFY `id_sujet` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=23;
 
 --
 -- AUTO_INCREMENT pour la table `ressource`
 --
 ALTER TABLE `ressource`
-  MODIFY `id_ressource` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=92;
+  MODIFY `id_ressource` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=97;
 
 --
 -- AUTO_INCREMENT pour la table `utilisateur`
 --
 ALTER TABLE `utilisateur`
-  MODIFY `id_utilisateur` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=84;
+  MODIFY `id_utilisateur` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=97;
 
 --
 -- Contraintes pour les tables déchargées

@@ -139,7 +139,7 @@ include_once 'includes/config.php';
                 class="card h-100 text-center border-0 shadow-sm transition-hover"
               >
                 <img
-                  src="./../assets/images/medba.jpg"
+                  src="./../assets/images/img1.jpg"
                   class="rounded-circle mx-auto mt-4"
                   alt="medba photo"
                   width="100"
@@ -165,7 +165,7 @@ include_once 'includes/config.php';
                 class="card h-100 text-center border-0 shadow-sm transition-hover"
               >
                 <img
-                  src="./../assets/images/ISMO SHARE.png"
+                  src="./../assets/images/img2.jpg"
                   class="rounded-circle mx-auto mt-4"
                   alt="John Doe"
                   width="100"
@@ -177,10 +177,10 @@ include_once 'includes/config.php';
                 <div
                   class="card-footer bg-transparent border-0 d-flex justify-content-center gap-3 pb-4"
                 >
-                  <a href="#" class="text-black"
+                  <a href="http://www.linkedin.com/in/fatima-ezzahraa-hmodo-531923276" target="_blank" class="text-black"
                     ><i class="fa-brands fa-linkedin fa-lg"></i
                   ></a>
-                  <a href="#" class="text-black"
+                  <a href="https://github.com/Fatimaezzah2" target="_blank" class="text-black"
                     ><i class="fa-brands fa-github fa-lg"></i
                   ></a>
                 </div>
@@ -191,7 +191,7 @@ include_once 'includes/config.php';
                 class="card h-100 text-center border-0 shadow-sm transition-hover"
               >
                 <img
-                  src="./../assets/images/ISMO SHARE.png"
+                  src="./../assets/images/img3.jpg"
                   class="rounded-circle mx-auto mt-4"
                   alt="John Doe"
                   width="100"
@@ -203,10 +203,10 @@ include_once 'includes/config.php';
                 <div
                   class="card-footer bg-transparent border-0 d-flex justify-content-center gap-3 pb-4"
                 >
-                  <a href="#" class="text-black"
+                  <a href="https://www.linkedin.com/in/nihad-afilal-b40a96316" class="text-black" target="_blank"
                     ><i class="fa-brands fa-linkedin fa-lg"></i
                   ></a>
-                  <a href="#" class="text-black"
+                  <a href="https://github.com/Nih17ad" class="text-black" target="_blank"
                     ><i class="fa-brands fa-github fa-lg"></i
                   ></a>
                 </div>
@@ -217,7 +217,7 @@ include_once 'includes/config.php';
                 class="card h-100 text-center border-0 shadow-sm transition-hover"
               >
                 <img
-                  src="./../assets/images/ISMO SHARE.png"
+                  src="./../assets/images/img4.jpg"
                   class="rounded-circle mx-auto mt-4"
                   alt="John Doe"
                   width="100"
@@ -229,10 +229,10 @@ include_once 'includes/config.php';
                 <div
                   class="card-footer bg-transparent border-0 d-flex justify-content-center gap-3 pb-4"
                 >
-                  <a href="#" class="text-black"
+                  <a href="https://www.linkedin.com/in/aktaou-dina-b7a8342aa/" class="text-black" target="_blank"
                     ><i class="fa-brands fa-linkedin fa-lg"></i
                   ></a>
-                  <a href="#" class="text-black"
+                  <a href="https://github.com/DinaActaou" class="text-black"  target="_blank"
                     ><i class="fa-brands fa-github fa-lg"></i
                   ></a>
                 </div>
@@ -243,7 +243,7 @@ include_once 'includes/config.php';
                 class="card h-100 text-center border-0 shadow-sm transition-hover"
               >
                 <img
-                  src="./../assets/images/ISMO SHARE.png"
+                  src="./../assets/images/img5.jpg"
                   class="rounded-circle mx-auto mt-4"
                   alt="John Doe"
                   width="100"
@@ -255,10 +255,10 @@ include_once 'includes/config.php';
                 <div
                   class="card-footer bg-transparent border-0 d-flex justify-content-center gap-3 pb-4"
                 >
-                  <a href="#" class="text-black"
+                  <a href="https://www.linkedin.com/in/sara-hidouri-02353531a" class="text-black" target="_blank"
                     ><i class="fa-brands fa-linkedin fa-lg"></i
                   ></a>
-                  <a href="#" class="text-black"
+                  <a href="https://github.com/sarahidouri" class="text-black" target="_blank"
                     ><i class="fa-brands fa-github fa-lg"></i
                   ></a>
                 </div>
