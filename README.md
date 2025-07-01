@@ -155,7 +155,3 @@ Merci de suivre les étapes suivantes :
 ## 📄 Licence
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
-
----
-
-## **Institut spécialisé dans les métiers de l'offshoring (<a href="https://www.ismo.ma">ISMO</a>) Tétouan - 2025**
