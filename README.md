@@ -23,7 +23,7 @@ ISMOShare est une plateforme collaborative destinée aux étudiants et enseignan
 
 ## 🧱 Technologies utilisées
 
-- **Front-end** : [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) - [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#) - [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#) - [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+- **Front-end** : [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 - **Back-end** : [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 - **Base de données** : [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
