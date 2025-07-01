@@ -132,37 +132,37 @@ ISMOShare/
 Voici un aperçu des principales pages de la plateforme **ISMOShare** :
 
 ### 🏠 Accueil
-![Accueil](assets/images/screenshot-accueil.png)
+![Accueil](assets/images/screenshots/1.png)
 
 ### ℹ️ À propos
-![À propos](assets/images/screenshot-apropos.png)
+![À propos](assets/images/screenshots/2.png)
 
 ### 📞 Contact
-![Contact](assets/images/screenshot-contact.png)
-
-### 🔐 Connexion
-![Connexion](assets/images/screenshot-connexion.png)
+![Contact](assets/images/screenshots/3.png)
 
 ### 📝 Inscription
-![Inscription](assets/images/screenshot-inscription.png)
+![Inscription](assets/images/screenshots/4.png)
+
+### 🔐 Connexion
+![Connexion](assets/images/screenshots/5.png)
 
 ### 📊 Tableau de bord
-![Tableau de bord](assets/images/screenshot-dashboard.png)
+![Tableau de bord](assets/images/screenshots/6.png)
 
 ### 💬 Forum
-![Forum](assets/images/screenshot-forum.png)
+![Forum](assets/images/screenshots/7.png)
 
 ### 📂 Ressources
-![Ressources](assets/images/screenshot-ressources.png)
+![Ressources](assets/images/screenshots/8.png)
 
 ### 📢 Annonces
-![Annonces](assets/images/screenshot-annonces.png)
+![Annonces](assets/images/screenshots/9.png)
 
 ### 🔔 Notifications
-![Notifications](assets/images/screenshot-notifications.png)
+![Notifications](assets/images/screenshots/10.png)
 
 ### 👤 Profil
-![Profil](assets/images/screenshot-profil.png)
+![Profil](assets/images/screenshots/11.png)
 
 
 ---
