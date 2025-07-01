@@ -57,30 +57,39 @@ http://localhost/ISMOShare/index.php
 ### 5. Structure du projet
 
 ```bash
+
 ISMOShare/
 ├── index.php
-├── database/
-│   └── ismoshare.sql
+├── LICENSE
+├── README.md
+│
 ├── assets/
 │   ├── css/
 │   │   └── style.css
 │   ├── images/
-│   │   └── logo.png, hero.png, ...
-│   ├── uploads/
-│   │   └── profile/, resources/
-│   └── documents/
-│       └── cahier des charges.pdf
+│   │   ├── hero.png
+│   │   ├── img1.jpg
+│   │   ├── img2.jpg
+│   │   ├── img3.jpg
+│   │   ├── img4.jpg
+│   │   ├── img5.jpg
+│   │   ├── ISMO SHARE.png
+│   │   └── logo.png
+│   └── uploads/
+│       ├── profile/
+│       └── resources/
+│
+├── database/
+│   └── ismoshare.sql
+│
+├── documents/
+│   ├── cahier des charges.pdf
+│   ├── MCD.docx
+│   ├── MLD.docx
+│   ├── Présentation de Projet.pptx
+│   └── Rapport de Projet.pdf
+│
 ├── pages/
-│   ├── includes/
-│   │   ├── config.php
-│   │   └── notification_functions.php
-│   ├── subpages/
-│   │   ├── contact-messages.php
-│   │   ├── liste-users.php
-│   │   ├── valider-inscriptions.php
-│   │   └── valider-ressources.php
-│   ├── uploads/
-│   │   └── profiles/
 │   ├── annonces.php
 │   ├── apropos.php
 │   ├── attente-validation.php
@@ -94,7 +103,18 @@ ISMOShare/
 │   ├── notifications.php
 │   ├── profile.php
 │   ├── ressources.php
-└── └── update_download_count.php
+│   ├── update_download_count.php
+│   │
+│   ├── includes/
+│   │   ├── config.php
+│   │   └── notification_functions.php
+│   │
+│   └── subpages/
+│       ├── contact-messages.php
+│       ├── liste-users.php
+│       ├── valider-inscriptions.php
+└────── └── valider-ressources.php
+
 ```
 
 ## 🗓️ Planification du Projet
