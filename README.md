@@ -8,12 +8,12 @@ ISMOShare est une plateforme collaborative destinée aux étudiants et enseignan
 
 ## 🚀 Fonctionnalités
 
-- 📥 Téléversement et partage de ressources  
-- 📢 Gestion des annonces  
-- 👥 Authentification et profils utilisateurs  
-- 📄 Tableau d’administration avec file d’attente de validation  
-- 📚 Visualisation intégrée des fichiers  
-- 🔐 Accès basé sur les rôles  
+- Téléversement et partage de ressources  
+- Gestion des annonces  
+- Authentification et profils utilisateurs  
+- Tableau d’administration avec file d’attente de validation  
+- Visualisation intégrée des fichiers  
+- Accès basé sur les rôles  
 
 ---
 
