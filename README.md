@@ -1,7 +1,7 @@
 # ISMOShare
 ![GitHub repo size](https://img.shields.io/github/repo-size/med6ba/ismoshare)
-![GitHub issues](https://img.shields.io/github/issues/med6ba/ismoshare)
 ![GitHub license](https://img.shields.io/github/license/med6ba/ismoshare)
+<br>
 <br>
 <img src="assets/images/ISMO SHARE.png" alt="Logo ISMOShare" width="100" />
 
