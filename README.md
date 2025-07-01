@@ -1,10 +1,9 @@
 # ISMOShare
-<br>
-<img src="assets/images/ISMO SHARE.png" alt="Logo ISMOShare" width="100" />
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/med6ba/ismoshare)
 ![GitHub issues](https://img.shields.io/github/issues/med6ba/ismoshare)
 ![GitHub license](https://img.shields.io/github/license/med6ba/ismoshare)
+<br>
+<img src="assets/images/ISMO SHARE.png" alt="Logo ISMOShare" width="100" />
 
 ISMOShare est une plateforme collaborative destinée aux étudiants et enseignants de l’ISMO (Institut Spécialisé de Technologie Appliquée). Elle permet de partager des ressources pédagogiques, publier des annonces, et gérer les profils utilisateurs.
 
