@@ -140,6 +140,13 @@ Merci de suivre les étapes suivantes :
 
 ---
 
+## ❗ Remarque importante
+ℹ️ Le projet ISMOShare n’a pas été hébergé en ligne.
+<br>
+Il est fourni uniquement sous forme de fichiers locaux afin que les utilisateurs puissent faire une simulation en local.
+
+---
+
 ## 📬 Contact
 
 ### Réalisé par:
