@@ -1,4 +1,4 @@
-# 📚 ISMOShare
+# ISMOShare
 <br>
 <img src="assets/images/ISMO SHARE.png" alt="Logo ISMOShare" width="100" />
 
