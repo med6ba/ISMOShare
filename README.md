@@ -150,7 +150,7 @@ Merci de suivre les étapes suivantes :
 
 - **Mme Joairia Lafhal** - <a href="https://www.linkedin.com/in/joairia-lafhal-231454271/">LinkedIn</a> - <a href="https://github.com/joairia">GitHub</a>
 
-**Institut spécialisé dans les métiers de l'offshoring (<a href="https://www.ismo.ma">ismo.ma</a>) Tétouan - 2025**
+**Institut spécialisé dans les métiers de l'offshoring (<a href="https://www.ismo.ma">ISMO</a>) Tétouan - 2025**
 
 ---
 
