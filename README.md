@@ -131,19 +131,19 @@ ISMOShare/
 
 Voici un aperçu des principales pages de la plateforme **ISMOShare** :
 
-### 🏠 Page d'accueil
+### 🏠 Accueil
 ![Accueil](assets/images/screenshot-accueil.png)
 
-### ℹ️ Page À propos
+### ℹ️ À propos
 ![À propos](assets/images/screenshot-apropos.png)
 
-### 📞 Page Contact
+### 📞 Contact
 ![Contact](assets/images/screenshot-contact.png)
 
-### 🔐 Page de Connexion
+### 🔐 Connexion
 ![Connexion](assets/images/screenshot-connexion.png)
 
-### 📝 Page d'Inscription
+### 📝 Inscription
 ![Inscription](assets/images/screenshot-inscription.png)
 
 ### 📊 Tableau de bord
