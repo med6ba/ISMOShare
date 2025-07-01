@@ -127,6 +127,46 @@ ISMOShare/
 
 ---
 
+## 📸 Captures d'écran
+
+Voici un aperçu des principales pages de la plateforme **ISMOShare** :
+
+### 🏠 Page d'accueil
+![Accueil](assets/images/screenshot-accueil.png)
+
+### ℹ️ Page À propos
+![À propos](assets/images/screenshot-apropos.png)
+
+### 📞 Page Contact
+![Contact](assets/images/screenshot-contact.png)
+
+### 🔐 Page de Connexion
+![Connexion](assets/images/screenshot-connexion.png)
+
+### 📝 Page d'Inscription
+![Inscription](assets/images/screenshot-inscription.png)
+
+### 📊 Tableau de bord
+![Tableau de bord](assets/images/screenshot-dashboard.png)
+
+### 💬 Forum
+![Forum](assets/images/screenshot-forum.png)
+
+### 📂 Ressources
+![Ressources](assets/images/screenshot-ressources.png)
+
+### 📢 Annonces
+![Annonces](assets/images/screenshot-annonces.png)
+
+### 🔔 Notifications
+![Notifications](assets/images/screenshot-notifications.png)
+
+### 👤 Profil
+![Profil](assets/images/screenshot-profil.png)
+
+
+---
+
 ## 🤝 Contribution
 
 Les contributions sont les bienvenues !  
