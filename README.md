@@ -66,18 +66,10 @@ ISMOShare/
 ├── assets/
 │   ├── css/
 │   │   └── style.css
-│   ├── images/
-│   │   ├── hero.png
-│   │   ├── img1.jpg
-│   │   ├── img2.jpg
-│   │   ├── img3.jpg
-│   │   ├── img4.jpg
-│   │   ├── img5.jpg
-│   │   ├── ISMO SHARE.png
-│   │   └── logo.png
+│   ├── images/...
 │   └── uploads/
-│       ├── profile/
-│       └── resources/
+│       ├── profile/...
+│       └── resources/...
 │
 ├── database/
 │   └── ismoshare.sql
