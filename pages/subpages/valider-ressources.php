@@ -313,7 +313,7 @@ $resources = $result->fetch_all(MYSQLI_ASSOC);
                         <td><?= htmlspecialchars($resource['filiere_nom']) ?></td>
                         <td><?= htmlspecialchars($resource['module_nom']) ?></td>
                         <td>
-                          <a href="../<?= $resource['fichier'] ?>" class="btn btn-sm btn-dark" target="_blank">
+                          <a href="../../<?= $resource['fichier'] ?>" class="btn btn-sm btn-dark" target="_blank">
                             <i class="fas fa-file-pdf me-1"></i> <?= basename($resource['fichier']) ?>
                           </a>
                         </td>
