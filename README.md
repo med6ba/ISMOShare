@@ -63,7 +63,7 @@ http://localhost/ISMOShare/index.php
 
 ```bash
 Logins: admin - formateur - stagiaire
-password: Admin@1234
+Password: Admin@1234
 ```
 
 ## 🏗️ Structure du projet
