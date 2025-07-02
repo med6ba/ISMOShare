@@ -61,12 +61,8 @@ http://localhost/ISMOShare/index.php
 ### 5. Commencer la simulation
 
 ```bash
-Logins:
-admin
-formateur
-stagiaire
-password:
-Admin@1234
+Logins: admin - formateur - stagiaire
+password: Admin@1234
 ```
 
 ## 🏗️ Structure du projet
