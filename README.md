@@ -58,7 +58,7 @@ Démarrer Apache et MySQL.
 http://localhost/ISMOShare/index.php
 ```
 
-### 5. Structure du projet
+## 🏗️ Structure du projet
 
 ```bash
 
