@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1
--- Généré le : mer. 02 juil. 2025 à 07:01
+-- Généré le : mer. 02 juil. 2025 à 09:19
 -- Version du serveur : 10.4.32-MariaDB
 -- Version de PHP : 8.2.12
 
@@ -298,10 +298,9 @@ CREATE TABLE `utilisateur` (
 --
 
 INSERT INTO `utilisateur` (`id_utilisateur`, `nom`, `prenom`, `email`, `mot_de_passe`, `photo_profil`, `role`, `id_filiere`, `cef_matricule`, `numero_whatsapp`, `bio`, `statut`, `annee_formation`) VALUES
-(93, 'admin', 'super', 'admin@ofppt-edu.ma', '$2y$10$ZLIlEhRFoXtgrb.hm2VTVOzPcCsyMKguODOXhcQiBHcnSR85/ZvD2', NULL, 'admin', 1, '1234567', '670765333', 'junior web developer', 'approuvé', '2ème année'),
 (94, 'stagiaire', 'super', 'stagiaire@ofppt-edu.ma', '$2y$10$iTuMZy6m6x8YDCL/5b7yVeIz3iQvNitI7DpfMf9pyDTocTireDVGW', NULL, 'stagiaire', NULL, '12', NULL, NULL, 'approuvé', NULL),
 (95, 'formateur', 'super', 'formateur@ofppt-edu.ma', '$2y$10$57oY6492xf4Cl22sewO.mOvgG.NG4NVHfAyZLPSz72pMlNauoiM5i', NULL, 'formateur', NULL, '123', NULL, NULL, 'approuvé', NULL),
-(98, 'test', 'test', 'test@ofppt-edu.ma', '$2y$10$hfQLJAbE7GiIeefpyOW/9.fgY0Ut3ALmJf26pm3RHr7d1INRnWb4q', NULL, 'stagiaire', NULL, '1234567890', NULL, NULL, 'approuvé', NULL);
+(100, 'admin', 'super', 'admin@ofppt-edu.ma', '$2y$10$woawjinJjwsb76Es/OuLfO8pPPhssxW/wnnptdrp03saT9xhzfRYm', NULL, NULL, NULL, '1234', NULL, NULL, 'approuvé', NULL);
 
 -- --------------------------------------------------------
 
@@ -544,7 +543,7 @@ ALTER TABLE `ressource`
 -- AUTO_INCREMENT pour la table `utilisateur`
 --
 ALTER TABLE `utilisateur`
-  MODIFY `id_utilisateur` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=99;
+  MODIFY `id_utilisateur` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=101;
 
 --
 -- Contraintes pour les tables déchargées
