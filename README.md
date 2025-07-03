@@ -199,15 +199,15 @@ Il est fourni uniquement sous forme de fichiers locaux afin que les utilisateurs
 
 ### Réalisé par:
 
-- **Mohamed Ben Abdessadak** - <a href="https://www.linkedin.com/in/med6ba/">LinkedIn</a> - <a href="https://github.com/med6ba">GitHub</a>
-- **Fatima Ezzahraa Hmodo** - <a href="http://www.linkedin.com/in/fatima-ezzahraa-hmodo-531923276">LinkedIn</a> - <a href="https://github.com/Fatimaezzah2">GitHub</a>
-- **Nihad Afilal** - <a href="https://www.linkedin.com/in/nihad-afilal-b40a96316">LinkedIn</a> - <a href="https://github.com/Nih17ad">GitHub</a>
-- **Dina Actaou** - <a href="https://www.linkedin.com/in/aktaou-dina-b7a8342aa">LinkedIn</a> - <a href="https://github.com/DinaActaou">GitHub</a>
-- **Sara Hidouri** - <a href="https://www.linkedin.com/in/sara-hidouri-02353531a">LinkedIn</a> - <a href="https://github.com/sarahidouri">GitHub</a>
+- **Mohamed Ben Abdessadak** : <a href="https://www.linkedin.com/in/med6ba/">LinkedIn</a> - <a href="https://github.com/med6ba">GitHub</a>
+- **Fatima Ezzahraa Hmodo** : <a href="http://www.linkedin.com/in/fatima-ezzahraa-hmodo-531923276">LinkedIn</a> - <a href="https://github.com/Fatimaezzah2">GitHub</a>
+- **Nihad Afilal** : <a href="https://www.linkedin.com/in/nihad-afilal-b40a96316">LinkedIn</a> - <a href="https://github.com/Nih17ad">GitHub</a>
+- **Dina Actaou** : <a href="https://www.linkedin.com/in/aktaou-dina-b7a8342aa">LinkedIn</a> - <a href="https://github.com/DinaActaou">GitHub</a>
+- **Sara Hidouri** : <a href="https://www.linkedin.com/in/sara-hidouri-02353531a">LinkedIn</a> - <a href="https://github.com/sarahidouri">GitHub</a>
 
 ### Sous la supervision de:
 
-- **Mme Joairia Lafhal** - <a href="https://www.linkedin.com/in/joairia-lafhal-231454271/">LinkedIn</a> - <a href="https://github.com/joairia">GitHub</a>
+- **Mme Joairia Lafhal** : <a href="https://www.linkedin.com/in/joairia-lafhal-231454271/">LinkedIn</a> - <a href="https://github.com/joairia">GitHub</a>
 
 ---
 
